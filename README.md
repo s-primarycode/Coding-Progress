@@ -10,6 +10,8 @@
 - TOP (Quit)
 - freeCodeCamp Full Stack course (Quit)
 - CS50 python (Started 12/1/25)
+    - PSET 0
+        - Indoor Voice (Completed 12/4/25)
     
   
 ---
