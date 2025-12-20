@@ -20,6 +20,14 @@
     - Day 9 (12/9/25)
         - Finished Playback
         - Turned in Indoor Voice (forgot to turn in)
+    - Day 15 (12/15/25)
+        - Finished Einstein assignment
+    - Day 16 (12/16/25)
+        - Started to turn old Thinkpad into a homelab (have to change the thermal paste)
+    - Day 18 (12/18/25)
+        - Started looking into learning Java
+    - Day 19 (12/19/25)
+        -   
     
 ---
 
