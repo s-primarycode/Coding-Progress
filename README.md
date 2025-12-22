@@ -30,8 +30,10 @@
         - Started with a Number Randomizer tutorial, but quit due to Java not working properly on VScode
     - Day 20 (12/20/25)
         - Successfully installed Java onto VScode
-        - Started on a Black Jack game tutorial
+        - Started on a Black Jack game tutorial (Quit)
+        - Read through pages 7 - 16
+    - Day 22 (12/22/25)
     
 ---
 
-Last updated: **December 20, 2025**
+Last updated: **December 22, 2025**
