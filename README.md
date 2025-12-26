@@ -1,7 +1,6 @@
-# December's Tech Career Progress
+#Tech Career Progress
 
-#Tracking my progress for the month of December
-
+#Tracking my progress
 ---
 
 ## Completed/Working on list
