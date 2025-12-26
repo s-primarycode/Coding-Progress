@@ -41,7 +41,8 @@
 - Day 23 (12/23/25)
     - Installed Eclipse 
 - Day 24 (12/24/25)
-    - Watched *Learn Java in 14 Minutes (seriously)* by Alex Lee
+    - Christmas Eve
+- Day 25 (12/25/25)
 
 ---
 
