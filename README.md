@@ -43,6 +43,8 @@
     - Christmas Eve
 - Day 25 (12/25/25)
     - Christmas Day
+- Day 26 (12/26/25)
+    - Finished ep.1 of Bro code's Java tutorial playlist
 ---
 
 - Make one of these READme's per month
