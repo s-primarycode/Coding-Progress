@@ -45,13 +45,17 @@
     - Christmas Day
 - Day 26 (12/26/25)
     - Finished ep.1 of Bro code's Java tutorial playlist
+- Day 28 (12/28/25)
+    - Finished ep.2 of Bro code's Java playlist
 - Day 29 (12/29/25)
     - Started Homelab
     - Replaced Thinkpad's thermal paste
     - Installed Ubuntu Server
     - Installed Samba
     - Installed Jellyfin
+- Day 30 (12/30/25)
+    - Worked on homelab
+    - 
 ---
 
-- Make one of these READme's per month
 - Last updated: **December 26, 2025**
