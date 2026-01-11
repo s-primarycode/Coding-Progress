@@ -10,4 +10,8 @@
 - Day 38 (1/7/26)
   - Transition to C
 - Day 40 (1/9/26)
-  - Started on Lecture 0 (CS50)
+  - Started CS50
+    - Started on Lecture 0
+- Day 41 (1/10/26)
+  - Finished lecture 0
+  - Started Problem Set 0
