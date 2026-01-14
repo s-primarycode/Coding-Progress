@@ -18,4 +18,4 @@
 - Day 43 (1/12/26)
   - Finished Problem Set 0
 - Day 44 (1/13/26)
-  - Halfway through Lecture 1
+  - 1/3 of the way done with Lecture 1
