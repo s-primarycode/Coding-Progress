@@ -15,3 +15,7 @@
 - Day 41 (1/10/26)
   - Finished lecture 0
   - Started Problem Set 0
+- Day 43 (1/12/26)
+  - Finished Problem Set 0
+- Day 44 (1/13/26)
+  - Halfway through Lecture 1
